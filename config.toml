@@ -1,4 +1,5 @@
-baseurl = "/"
+baseurl = "https://<ehab-hassan>.github.io/<midori_archive
+>"
 LanguageCode = "en"
 title = "Midori"
 theme = "landing"

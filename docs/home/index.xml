@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Midori</title>
+    <link>https://ehab-hassan.github.io/midori_archive/home/</link>
+    <description>Recent content in Homes on Midori</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://ehab-hassan.github.io/midori_archive/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>footer</title>
+      <link>https://ehab-hassan.github.io/midori_archive/home/footer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ehab-hassan.github.io/midori_archive/home/footer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>header</title>
+      <link>https://ehab-hassan.github.io/midori_archive/home/header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ehab-hassan.github.io/midori_archive/home/header/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parallax</title>
+      <link>https://ehab-hassan.github.io/midori_archive/home/parallax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ehab-hassan.github.io/midori_archive/home/parallax/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

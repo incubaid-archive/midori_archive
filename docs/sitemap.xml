@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/midori_archive/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/midori_archive/home/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/midori_archive/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/midori_archive/post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/midori_archive/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/midori_archive/home/footer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/midori_archive/home/header/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/midori_archive/home/parallax/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/midori_archive/play/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/midori_archive/regain/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/midori_archive/sail/</loc>
+  </url>
+  
+</urlset>

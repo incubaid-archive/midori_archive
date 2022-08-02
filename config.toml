@@ -6,6 +6,7 @@ contentdir = "content"
 staticdir = "static"
 publishDir = "docs"
 relativeURLs = true
+canonifyURLs = true
 
 [permalinks]
     post = "/:filename"

@@ -4,7 +4,7 @@ title = "parallax"
 
 slide1 ="midori"
 slide1_text="Smart"
-slide1_image = "/img/001-3.jpg"
+slide1_image = "/midori_archive/img/001-3.jpg"
 
 slide2_title ="smart luxury catamaran"
 slide2 ="Midori is a brand new Sunreef Supreme 68 catamaran.Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words discovered the undoubtable."

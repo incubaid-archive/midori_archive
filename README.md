@@ -1,5 +1,8 @@
 # Midori website
 
+github pages link
+https://incubaid-archive.github.io/midori_archive/
+
 # Content folder
 
 [www.midori.blue/content](www.midori.blue/content)
